@@ -9,8 +9,6 @@
 .Business .image-container {
     height: 16.66rem;
     margin-bottom: 1rem;
-    display: flex;
-    flex-wrap: nowrap;
 }
 
 .Business .image-container > img {
